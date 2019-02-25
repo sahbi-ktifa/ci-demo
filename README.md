@@ -1,5 +1,7 @@
 # jhipsterCIDemo
 
+[![Build Status](https://travis-ci.com/sahbi-ktifa/ci-demo.svg?branch=master)](https://travis-ci.com/sahbi-ktifa/ci-demo)
+
 This application was generated using JHipster 5.8.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.1](https://www.jhipster.tech/documentation-archive/v5.8.1).
 
 ## Development
