@@ -1,4 +1,4 @@
-# jhipsterCIDemo
+# jhipster CI Demo
 
 [![Build Status](https://travis-ci.com/sahbi-ktifa/ci-demo.svg?branch=master)](https://travis-ci.com/sahbi-ktifa/ci-demo)
 
